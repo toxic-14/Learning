@@ -12,6 +12,6 @@ h1{
   padding: 10px 40px;
   border-radius: 100px
 }
-img{
-  width: 300px;
+.my-element{
+  background-image: url("Image/3223761-3840x2160-desktop-hd-summer-nature-wallpaper-photo.jpg");
 }
