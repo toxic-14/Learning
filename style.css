@@ -5,6 +5,7 @@ h3{
   font-style:italic ;
 }
 h1{
+  text-align: center;
   border: solid 2px black;
   width: fit-contain;
   margin: 3px auto;
