@@ -5,6 +5,9 @@
   font-style:italic;
 }
 h1{
-  border:solid 2px black;
-  width:120px;
+  border: solid 2px black;
+  width: fit-content;
+  margin: 2px auto;
+  padding: 10px 40px;
+  border-radius: 100px
 }
