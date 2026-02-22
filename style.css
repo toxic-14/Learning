@@ -6,7 +6,7 @@ h3{
 }
 h1{
   border: solid 2px black;
-  width: 300px;
+  width: fit-contain;
   margin: 3px auto;
   padding: 10px 40px;
   border-radius: 100px
